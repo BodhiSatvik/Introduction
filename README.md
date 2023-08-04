@@ -15,7 +15,9 @@ Obtain an API key from OpenAI and add it to the .env file in the project directo
 ```OPENAI_API_KEY=your_secrit_api_key```
 
 Alternatively, obtain an API key from HuggingFace and add that to the .env file
+
 ```HUGGINGFACEHUB_API_TOKEN=your_secrit_api_key```
 
 Next, run the app.py file using Streamlit CLI
+
 ```streamlit run app.py```
